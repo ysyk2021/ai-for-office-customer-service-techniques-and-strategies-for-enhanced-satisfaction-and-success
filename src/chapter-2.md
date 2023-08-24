@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Office Customer Service
-=======================================================================
 
 In this chapter, we will explore the various tools and technologies available for AI-driven office customer service. We will also provide guidance on selecting the right tools for your customer service needs.
 

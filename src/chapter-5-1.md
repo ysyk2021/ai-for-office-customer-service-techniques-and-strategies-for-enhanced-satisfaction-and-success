@@ -1,5 +1,3 @@
-AI-Driven Knowledge Management and Self-Service Resources
-=========================================================================================================================
 
 Effective knowledge management and training are critical components of successful customer service. In this chapter, we will explore how AI can be used to improve knowledge management and provide self-service resources, leading to increased customer satisfaction and success.
 

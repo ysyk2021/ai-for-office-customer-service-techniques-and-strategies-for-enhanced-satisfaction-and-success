@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-==================================================================================================================
 
 As organizations increasingly turn to AI technologies for office customer service, it is important to address the potential ethical and bias issues that may arise. In this chapter, we will explore strategies for managing ethics and bias in AI-driven office customer service.
 

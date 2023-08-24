@@ -1,5 +1,3 @@
-Automated Task Management and Workflow using AI
-=============================================================================================================
 
 Effective communication and collaboration are critical components of successful customer service. In this chapter, we will explore how AI can be used to enhance communication and collaboration through automated task management and workflow.
 

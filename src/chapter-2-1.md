@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-=====================================================================================================================
 
 In this chapter, we will provide an overview of the tools and technologies available for AI-driven office customer service.
 

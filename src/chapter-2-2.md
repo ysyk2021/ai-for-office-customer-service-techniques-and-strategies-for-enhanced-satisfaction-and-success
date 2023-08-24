@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Customer Service Needs
-==================================================================================================================================
 
 In this chapter, we will explore the process of selecting the right tools for your customer service needs in an AI-driven office environment.
 
