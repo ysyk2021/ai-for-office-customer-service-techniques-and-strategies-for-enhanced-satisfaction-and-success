@@ -10,3 +10,7 @@ The goal of this book is to provide readers with the knowledge and tools to effe
 We hope that by reading this book, you will gain a deeper understanding of the potential of AI technology in customer service and be inspired to integrate these tools and systems into your own customer service practices. With "AI for Office Customer Service: Techniques and Strategies for Enhanced Satisfaction and Success," you'll be equipped with the knowledge and tools to take your customer service to the next level.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
