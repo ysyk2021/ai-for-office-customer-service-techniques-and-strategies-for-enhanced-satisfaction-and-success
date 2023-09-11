@@ -1,5 +1,4 @@
-Chapter 7: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various tools and technologies available for implementing AI in office customer service. As organizations embrace artificial intelligence (AI) to enhance customer satisfaction and success, understanding the different tools and technologies becomes crucial for making informed decisions. This chapter explores a range of AI tools and technologies, including natural language processing (NLP), chatbots, sentiment analysis, voice recognition, and knowledge management systems.
 

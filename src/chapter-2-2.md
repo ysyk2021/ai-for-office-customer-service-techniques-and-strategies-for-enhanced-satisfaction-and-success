@@ -1,5 +1,4 @@
-Chapter 6: Selecting the Right Tools for Your Customer Service Needs
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the process of selecting the right tools for your office customer service needs. As organizations embrace artificial intelligence (AI) to enhance customer satisfaction and success, choosing the appropriate AI tools becomes crucial. This chapter provides guidance on assessing your customer service requirements, evaluating available tools, considering important factors, and making informed decisions.
 

@@ -1,5 +1,4 @@
-Chapter 10: Emerging Trends in AI for Office Customer Service and Success
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting and rapidly evolving landscape of emerging trends in AI for office customer service. As technology continues to advance, new possibilities and opportunities arise for organizations to enhance customer satisfaction and achieve success. This chapter highlights some of the key emerging trends in AI that are shaping the future of office customer service.
 

@@ -1,5 +1,4 @@
-Chapter 8: Personalized Employee Training and Development using AI
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of AI in providing personalized employee training and development programs for office customer service. As organizations strive to enhance their customer service capabilities, empowering employees with the right skills and knowledge becomes crucial. This chapter delves into how AI can revolutionize traditional training approaches, enabling personalized learning experiences that are tailored to individual employee needs and preferences.
 

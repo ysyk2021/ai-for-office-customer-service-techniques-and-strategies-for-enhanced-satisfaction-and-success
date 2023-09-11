@@ -1,5 +1,4 @@
-Chapter 8: Importance of Ethical and Unbiased Customer Service Practices
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the significance of ethical and unbiased customer service practices in the context of AI-driven office customer service. As artificial intelligence (AI) technologies become increasingly integral to customer service operations, it is crucial to prioritize ethics and fairness to ensure positive customer experiences and maintain trust. This chapter highlights the potential risks of unethical or biased practices, explores strategies for fostering ethical customer service, and emphasizes the benefits of unbiased interactions with customers.
 

@@ -1,5 +1,4 @@
-Chapter 9: Automated Task Management and Workflow Using AI
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative potential of AI in office customer service by automating task management and workflow processes. Leveraging artificial intelligence (AI) technologies, organizations can streamline operations, increase efficiency, and improve overall productivity. This chapter delves into the key features and benefits of automated task management and workflow using AI and provides strategies for effectively implementing and maximizing its impact on office customer service.
 
